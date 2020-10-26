@@ -1,2 +1,2 @@
-cloud:
-  service:  config-test
+cloudfilm:
+  service:  out-config-test
