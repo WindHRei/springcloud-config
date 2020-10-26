@@ -1,1 +1,2 @@
-cloud:  789
+cloudfilm:
+  service:  in-config-test.yml
