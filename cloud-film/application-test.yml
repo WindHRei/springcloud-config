@@ -1,2 +1,2 @@
 cloudfilm:
-  service:  hello! springcloud config server!
+  service:  in-application-test.yml
