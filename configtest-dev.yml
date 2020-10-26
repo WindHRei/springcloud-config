@@ -1,1 +1,2 @@
-hello word!!!
+server:
+  port: 8003
